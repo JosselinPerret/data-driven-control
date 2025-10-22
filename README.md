@@ -1,1 +1,1 @@
-# data-drivent-control
+# data-driven-control
